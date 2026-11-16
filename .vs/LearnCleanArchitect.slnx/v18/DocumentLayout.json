@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\installers\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\installers\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\candidates\\commands\\addcandidates\\addcandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\candidates\\commands\\addcandidates\\addcandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\common\\validationbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\common\\validationbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\candidates\\commands\\queries\\getcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\candidates\\commands\\queries\\getcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\candidates\\commands\\queries\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\candidates\\commands\\queries\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\candidates\\commands\\addcandidates\\addcandidatecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\candidates\\commands\\addcandidates\\addcandidatecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|solutionrelative:learncleanarchitect.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\installers\\iinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\installers\\iinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\configurations\\candidateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\configurations\\candidateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\configurations\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\configurations\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|solutionrelative:learncleanarchitect.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\learncleanarchitect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\learncleanarchitect.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\learncleanarchitect.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110B2601-8146-84F0-8D79-AE63CEA7E46B}|LearnCleanArchitect.Domain\\LearnCleanArchitect.Domain.csproj|solutionrelative:learncleanarchitect.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2A54F-270C-E03C-2ADE-EA0F2C0E04DE}|LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj|solutionrelative:learncleanarchitect.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E027E617-3283-71A4-5B2C-4AF22C79ED81}|LearnCleanArchitect.Application\\LearnCleanArchitect.Application.csproj|solutionrelative:learncleanarchitect.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|d:\\longle\\code\\learncleanarchitect\\learncleanarchitect\\learncleanarchitect\\installers\\installerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB952F-1987-DA9C-BA19-F83BE75B8CBE}|LearnCleanArchitect\\LearnCleanArchitect.csproj|solutionrelative:learncleanarchitect\\installers\\installerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCandidateCommand.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommand.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommand.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommand.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:42:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\Services\\CandidateService.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Services\\CandidateService.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\Services\\CandidateService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:58:07.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Interfaces\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Interfaces\\ICandidateService.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Interfaces\\ICandidateService.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Interfaces\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:52:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:35:17.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationBehaviors.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Common\\ValidationBehaviors.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Common\\ValidationBehaviors.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Common\\ValidationBehaviors.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Common\\ValidationBehaviors.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:34:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceInstaller.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\ServiceInstaller.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Installers\\ServiceInstaller.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\ServiceInstaller.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Installers\\ServiceInstaller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:06:43.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCandidates.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\GetCandidates.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\GetCandidates.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\GetCandidates.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\GetCandidates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:48:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\CandidateDto.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\CandidateDto.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Candidates\\Commands\\Queries\\CandidateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:50:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCandidateCommandValidator.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommandValidator.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommandValidator.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommandValidator.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Candidates\\Commands\\AddCandidates\\AddCandidateCommandValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:43:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Entities\\Candidate.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Domain\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:23:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:35:21.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\appsettings.json",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\appsettings.json",
+              "RelativeToolTip": "LearnCleanArchitect\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T14:55:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Program.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Program.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Program.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:07:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:00:21.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Configurations\\DatabaseConfiguration.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Configurations\\DatabaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:57:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Configurations\\DbConfig.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\Configurations\\DbConfig.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Configurations\\DbConfig.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\Configurations\\DbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:01:01.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CandidateConfiguration.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Configurations\\CandidateConfiguration.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\Configurations\\CandidateConfiguration.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Configurations\\CandidateConfiguration.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\Configurations\\CandidateConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:01:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IInstaller.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\IInstaller.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Installers\\IInstaller.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\IInstaller.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Installers\\IInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:04:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:05:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Entities\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Domain\\Entities\\Enums\\Status.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Entities\\Enums\\Status.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Domain\\Entities\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:31:55.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LearnCleanArchitect.csproj",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.csproj",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\LearnCleanArchitect.csproj",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.csproj",
+              "RelativeToolTip": "LearnCleanArchitect\\LearnCleanArchitect.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-13T15:18:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LearnCleanArchitect.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\LearnCleanArchitect.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-13T15:15:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Domain\\Class1.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Domain\\Class1.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:11:43.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:11:16.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect.Application\\Class1.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect.Application\\Class1.cs",
+              "RelativeToolTip": "LearnCleanArchitect.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:10:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InstallerExtensions.cs",
+              "DocumentMoniker": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\InstallerExtensions.cs",
+              "RelativeDocumentMoniker": "LearnCleanArchitect\\Installers\\InstallerExtensions.cs",
+              "ToolTip": "D:\\LongLe\\Code\\LearnCleanArchitect\\LearnCleanArchitect\\LearnCleanArchitect\\Installers\\InstallerExtensions.cs",
+              "RelativeToolTip": "LearnCleanArchitect\\Installers\\InstallerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:05:05.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
